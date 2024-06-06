@@ -1,6 +1,6 @@
 {
-  "name": "@tribo-dev/eslint-config",
-  "version": "1.0.0",
+  "name": "@tribodev/eslint-config",
+  "version": "1.0.1",
   "private": false,
   "description": "ESLint configuration used by Tribodev.",
   "main": "index.js",

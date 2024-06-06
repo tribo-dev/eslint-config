@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @tribo-dev/eslint-config
+npm i -D eslint @tribodev/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@tribo-dev/eslint-config/next", 
+    "@tribodev/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @tribo-dev/eslint-config
+npm i -D eslint @tribodev/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@tribo-dev/eslint-config/react"
+  "extends": "@tribodev/eslint-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @tribo-dev/eslint-config
+npm i -D eslint @tribodev/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@tribo-dev/eslint-config/node"
+  "extends": "@tribodev/eslint-config/node"
 }
 ```
